@@ -12,3 +12,6 @@ This repository contains my local lab for exploring large language model (LLM) r
 ## License
 
 This project is licensed under the MIT License. See the `LICENSE` file for details.
+
+### Próximas tareas
+- [ ] Instalar Obsidian y crear plantilla de notas
